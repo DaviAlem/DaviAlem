@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤓 Student of the 2nd module in systems development<br>🖥️ Future programmer<br>🧑‍🏫 Learning from the best teachers in the area
+🤓 Student of the 3nd module in systems development
 
 
 # 💻 Tech Stack:
